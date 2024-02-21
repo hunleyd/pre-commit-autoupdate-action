@@ -10,5 +10,3 @@ runs:
       shell: bash
     - run: pre-commit autoupdate
       shell: bash
-    - run: pre-commit run --all-files
-      shell: bash
